@@ -903,7 +903,7 @@
     <Especializacao ID="136">
         <Bounds Height="32" Left="550" Top="707" Width="40"/>
         <DisablePainted Valor="false"/>
-        <Texto>Especialização_1</Texto>
+        <Texto>Especializacao</Texto>
         <Observacao/>
         <Dicionario/>
         <Fonte Estilo="1" Nome="Arial" Tamanho="12"/>
