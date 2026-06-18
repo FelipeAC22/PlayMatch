@@ -24,11 +24,12 @@ PlayMatch is designed to connect gamers quickly and efficiently through intellig
 
 ## Installation
 
-1. Clone the repository to your local machine.  
-   ```bash
-   git clone <repo-url>
-   npm install
-
+1. Clone the repository to your local machine.
+   
+```bash
+git clone <repo-url>
+npm install
+```
 ## How to Run
 
 ```bash
