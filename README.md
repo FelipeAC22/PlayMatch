@@ -42,6 +42,7 @@ npm run start
 The repository project was created.
 The introduction slide was created.
 The objective section was added.
+
 ---
 
 ## Roadmap (é o plano de evolução do projeto. Nele vocês descrevem funcionalidades e melhorias que serão implementadas no futuro.)
