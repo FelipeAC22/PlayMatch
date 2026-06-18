@@ -4,8 +4,8 @@ PlayMatch is designed to connect gamers quickly and efficiently through intellig
 
 ## Team
 
-- Felipe  
-- [Adicionar outro integrante]
+- Felipe Antunes
+- João Borba
 
 ## Technologies Used
 
@@ -34,24 +34,18 @@ PlayMatch is designed to connect gamers quickly and efficiently through intellig
 ```bash
 npm run start
 ```
----
-
-## Changelog (Changelog é o histórico das mudanças que já foram feitas no projeto.)
+## Changelog
 
 ### v1.0.0
 The repository project was created.
 The introduction slide was created.
 The objective section was added.
 
----
-
 ## Roadmap
 
 Dark mode will be added in the next release.
 
 MatchMaking will be implemented to improve the experience.
-
----
 
 ## Rules & Requirements
 
