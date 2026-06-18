@@ -45,7 +45,7 @@ The objective section was added.
 
 ---
 
-## Roadmap (é o plano de evolução do projeto. Nele vocês descrevem funcionalidades e melhorias que serão implementadas no futuro.)
+## Roadmap
 
 Dark mode will be added in the next release.
 
@@ -53,7 +53,7 @@ MatchMaking will be implemented to improve the experience.
 
 ---
 
-## Rules & Requirements (essa seção descreve as regras que o sistema deve seguir e os requisitos obrigatórios de validação, segurança e funcionamento.)
+## Rules & Requirements
 
 Invalid input must be rejected by the system.
 
