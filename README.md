@@ -27,7 +27,7 @@ PlayMatch is designed to connect gamers quickly and efficiently through intellig
 1. Clone the repository to your local machine.
    
 ```bash
-git clone <repo-url>
+git clone https://github.com/FelipeAC22/PlayMatch.git
 npm install
 ```
 ## How to Run
