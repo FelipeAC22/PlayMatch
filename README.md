@@ -1,57 +1,52 @@
 # PlayMatch
 
-PlayMatch is designed to connect gamers quickly and efficiently through intelligent matchmaking. User preferences are analyzed before matches are suggested.
+O PlayMatch foi desenvolvido para conectar jogadores de forma rápida e eficiente por meio de um sistema inteligente de matchmaking. As preferências dos usuários são analisadas antes que as partidas sejam sugeridas.
 
-## Team
+## Equipe
 
-- Felipe Antunes
-- João Borba
+* Felipe Antunes
+* João Borba
 
-## Technologies Used
+## Tecnologias Utilizadas
 
-- **React** – Will be used for building the front-end interface, providing a dynamic and responsive user experience.  
-- **Node.js + NestJS + TypeScript** – Will be used for back-end development, ensuring scalable server-side logic and type safety.  
-- **PostgreSQL** – Will be used as the database to store user profiles, matches, and reputation scores.  
-- **Git + GitHub** – Will be used for version control and collaborative development.  
-- **Vercel + Render** – Will be used for deployment, making the application accessible online.
+* **React** – Será utilizado para construir a interface front-end, proporcionando uma experiência de usuário dinâmica e responsiva.
+* **Node.js + TypeScript** – Serão utilizados no desenvolvimento do back-end, garantindo uma lógica de servidor escalável e segurança de tipos.
+* **PostgreSQL** – Será utilizado como banco de dados para armazenar perfis de usuários, partidas e pontuações de reputação.
+* **Git + GitHub** – Serão utilizados para controle de versão e desenvolvimento colaborativo.
+* **Expo Go** – Será utilizado para testagem do app ainda em desenvolvimento.
 
-## Features
+## Funcionalidades
 
-- User profiles will be synchronized with Steam API to automatically display owned games and playtime.  
-- Matches will be generated based on preferences, availability, and play style.  
-- Reputation scores will be assigned after each interaction to ensure trust and reliability.  
-- Filters will be applied to help users find teammates by genre, skill level, or platform.  
+* Os perfis dos usuários serão sincronizados com a API da Steam para exibir automaticamente os jogos que possuem e o tempo de jogo.
+* As partidas serão geradas com base nas preferências, disponibilidade e estilo de jogo dos usuários.
+* Pontuações de reputação serão atribuídas após cada interação para garantir confiança e confiabilidade entre os usuários.
+* Filtros serão aplicados para ajudar os usuários a encontrar companheiros de equipe por gênero de jogo, nível de habilidade ou plataforma.
 
-## Installation
+## Instalação
 
-1. Clone the repository to your local machine.
-   
+1. Clone o repositório para sua máquina local.
+
 ```bash
 git clone https://github.com/FelipeAC22/PlayMatch.git
 npm install
 ```
-## How to Run
+
+## Como Executar
 
 ```bash
 npm run start
 ```
-## Changelog
 
-### v1.0.0
-The repository project was created.
-The introduction slide was created.
-The objective section was added.
+## Histórico de Alterações
 
-## Roadmap
+O projeto do repositório foi criado.
+O slide de introdução foi criado.
+A seção de objetivos foi adicionada.
 
-Dark mode will be added in the next release.
+## Regras e Requisitos
 
-MatchMaking will be implemented to improve the experience.
+Entradas inválidas devem ser rejeitadas pelo sistema.
 
-## Rules & Requirements
+As senhas dos usuários devem ser criptografadas antes de serem armazenadas.
 
-Invalid input must be rejected by the system.
-
-User passwords must be encrypted before storage.
-
-Reputation scores must be updated after each match to maintain fairness
+As pontuações de reputação devem ser atualizadas após cada partida para manter a justiça e o equilíbrio do sistema.
