@@ -39,7 +39,7 @@ npm run start
 
 ## Histórico de Alterações
 
-O projeto do repositório foi criado.
+O repositório o projeto foi criado.
 O slide de introdução foi criado.
 A seção de objetivos foi adicionada.
 
